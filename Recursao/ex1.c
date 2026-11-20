@@ -17,7 +17,6 @@ int main(){
 }
 
 int soma_algarismos(int n){
-    int soma_al;
 
     if (n==0){
         return 0;
